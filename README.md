@@ -13,23 +13,19 @@
 
 (Not available)
 
-## Getting Started
+### Instructions
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-- Create a repository.
-- Install npm, node and linters.
+- Create a repository and clone it to your local machine.
+- Add and modify your project.
+- Create a new branch.
+- Open a pull request.
+- Play the code of the reviewer.
+- Add as many comment as possible.
+- Ask for a review of your code review!.
 
 ### Usage
 
-- Create branches, work within and push changes to github.
-- Set up linters.
-- Ignore files in git by using the .gitignore file
-- Edit .html files to write a title
-- Edit .css files to style a title
-- Create a pull request. 
+- Learn how to perform a code review
 
 ## Authors
 
